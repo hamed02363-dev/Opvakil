@@ -1,0 +1,6 @@
+{
+  "name": "وکیل‌یار",
+  "description": "اپلیکیشن آفلاین مدیریت پرونده‌های وکالت، مدارک، مراحل رسیدگی، لوایح، قوانین و گزارش‌های حقوقی ویژه وکلای دادگستری ایران",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
